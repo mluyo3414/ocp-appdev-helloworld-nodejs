@@ -1,17 +1,17 @@
 {
   "name": "hellonode",
   "version": "1.0.0",
-  "description": "Simple helloworld test",
+  "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "mocha",
+    "test": "node_modules/mocha/bin/mocha -R spec spec.js",
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "4.13.3",
-    "mocha": "2.3.2",
-    "really-need": "1.6.3",
-    "supertest": "1.1.0"
+  "express": "4.13.3",
+  "mocha": "2.3.2",
+  "really-need": "1.6.3",
+  "supertest": "1.1.0"
   },
   "author": "",
   "license": "ISC"
