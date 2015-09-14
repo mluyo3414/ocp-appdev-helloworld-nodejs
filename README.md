@@ -7,7 +7,7 @@ There are two files:
 1. server.js: A very simple node JS server
 2. spec.js: Simple unit test
 
-## How to Test
+### How to Test
 
 #### Step 1. Move to the source code directory
 
