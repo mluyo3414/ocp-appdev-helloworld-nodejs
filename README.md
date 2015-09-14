@@ -9,19 +9,19 @@ There are two files:
 
 ### How to Test
 
-#### Step 1. Move to the source code directory
+##### Step 1. Move to the source code directory
 
 ```
 $ cd ose-dev3-helloworld-nodejs
 ```
 
-#### Step 2. Add the node dependencies
+##### Step 2. Add the node dependencies
 
 ```
 $ npm install
 ```
 
-#### Step 3. Run the unit tests. This will execute unit test code in spec.js
+##### Step 3. Run the unit tests. This will execute unit test code in spec.js
 
 ```
 $ npm test
