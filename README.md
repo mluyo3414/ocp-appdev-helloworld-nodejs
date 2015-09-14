@@ -4,8 +4,8 @@ This is a simple example of performing unit tests with Node.js
 
 There are two files:
 
-1. server.js: A very simple node JS server
-2. spec.js: Simple unit test
+1. *`server.js`*: A very simple node JS server
+2. *`spec.js`*: Simple unit test
 
 ### How to Test
 
