@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/gpe-mw-training/ose-dev3-helloworld-nodejs.git"
+    "url": "git://github.com/wkulhanek/ose-dev3-helloworld-nodejs.git"
   },  
   "author": "",
   "license": "ISC"
