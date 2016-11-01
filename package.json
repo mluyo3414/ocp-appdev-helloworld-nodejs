@@ -13,10 +13,6 @@
   "really-need": "1.6.3",
   "supertest": "1.1.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/wkulhanek/ose-dev3-helloworld-nodejs.git"
-  },  
   "author": "",
   "license": "ISC"
 }
